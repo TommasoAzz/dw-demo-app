@@ -1,5 +1,5 @@
 # DropWizard Demo Application
-[![Build Status](https://travis-ci.org/TommasoAzz/TOS-Assignment2.svg?branch=master)](https://travis-ci.org/TommasoAzz/TOS-Assignment2)
+[![Build Status](https://travis-ci.org/TommasoAzz/dw-demo-app.svg?branch=master)](https://travis-ci.org/TommasoAzz/dw-demo-app)
 [![Coverage Status](https://coveralls.io/repos/github/TommasoAzz/dw-demo-app/badge.svg?branch=master)](https://coveralls.io/github/TommasoAzz/dw-demo-app?branch=master)
 Welcome to the DropWizard Demo Application !
 
