@@ -16,3 +16,7 @@ tmp
 target
 host-m2-repo
 .m2
+.classpath
+.project
+.vscode/
+.settings/
